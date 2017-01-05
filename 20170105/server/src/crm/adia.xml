@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<deal>
+	<deal_id>9</deal_id>
+	<crm_id>65</crm_id>
+	<crm_name></crm_name>
+	<deal>Веб сайт болон гар утасны програм хангамж</deal>
+	<phone></phone>
+	<expected_revenue>8100000</expected_revenue>
+	<probablity>50</probablity>
+	<status>postponed</status>
+	<closing_date>2013-12-31</closing_date>
+	<remind_date>0000-00-00</remind_date>
+	<stage>quote</stage>
+	<descr></descr>
+	<owner>batbileg@mxc</owner>
+	<usercode>batbileg@mxc</usercode>
+	<campaign></campaign>
+	<competitor_name></competitor_name>
+	<current_situation></current_situation>
+	<customer_need></customer_need>
+	<proposed_solution></proposed_solution>
+	<_date>2013-12-16 12:12:29</_date>
+	<notify></notify>
+	<deal_origin>new</deal_origin>
+	<company></company>
+</deal>
+</data>
